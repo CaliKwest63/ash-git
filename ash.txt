@@ -1,3 +1,5 @@
+new line
+
 added line
 
 Ash git test Oct, 2017
